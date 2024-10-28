@@ -10,4 +10,6 @@ int main () {
   cout << a.getX() << endl;
 
   cout << "added git diff" << endl;
+
+  cout << "changes" << endl;
 }
