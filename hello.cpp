@@ -11,5 +11,5 @@ int main () {
 
   cout << "added git diff" << endl;
 
-  cout << "made changes" << endl;
+  cout << "made extra changes" << endl;
 }
